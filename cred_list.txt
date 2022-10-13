@@ -1,0 +1,2 @@
+10.10.10.128|kali|kali
+10.10.10.100|msfadmin|msfadmin
