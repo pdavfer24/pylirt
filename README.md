@@ -12,15 +12,17 @@ Information is collected in the following contents.
 
 /etc/passwd
 
-cat /etc/group
+/etc/group
 
-cat /etc/sudoers
+/etc/sudoers
 
 lastlog
 
-cat /var/log/auth.log
+/var/log/auth.log
 
-uptime/proc/meminfo
+uptime
+
+/proc/meminfo
 
 ps aux
 
